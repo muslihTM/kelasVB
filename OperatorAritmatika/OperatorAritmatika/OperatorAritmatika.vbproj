@@ -173,6 +173,9 @@
     <EmbeddedResource Include="pembanding.resx">
       <DependentUpon>pembanding.vb</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="penugasan.resx">
+      <DependentUpon>penugasan.vb</DependentUpon>
+    </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
     <None Include="My Project\Application.myapp">
