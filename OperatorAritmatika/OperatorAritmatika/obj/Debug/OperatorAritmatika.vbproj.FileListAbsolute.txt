@@ -1,0 +1,15 @@
+D:\Kerja AKJ\AKJ\VB NET\2019\OperatorAritmatika\OperatorAritmatika\bin\Debug\OperatorAritmatika.exe.config
+D:\Kerja AKJ\AKJ\VB NET\2019\OperatorAritmatika\OperatorAritmatika\bin\Debug\OperatorAritmatika.exe
+D:\Kerja AKJ\AKJ\VB NET\2019\OperatorAritmatika\OperatorAritmatika\bin\Debug\OperatorAritmatika.pdb
+D:\Kerja AKJ\AKJ\VB NET\2019\OperatorAritmatika\OperatorAritmatika\bin\Debug\OperatorAritmatika.xml
+D:\Kerja AKJ\AKJ\VB NET\2019\OperatorAritmatika\OperatorAritmatika\obj\Debug\OperatorAritmatika.vbprojAssemblyReference.cache
+D:\Kerja AKJ\AKJ\VB NET\2019\OperatorAritmatika\OperatorAritmatika\obj\Debug\OperatorAritmatika.main_form.resources
+D:\Kerja AKJ\AKJ\VB NET\2019\OperatorAritmatika\OperatorAritmatika\obj\Debug\OperatorAritmatika.Resources.resources
+D:\Kerja AKJ\AKJ\VB NET\2019\OperatorAritmatika\OperatorAritmatika\obj\Debug\OperatorAritmatika.vbproj.GenerateResource.cache
+D:\Kerja AKJ\AKJ\VB NET\2019\OperatorAritmatika\OperatorAritmatika\obj\Debug\OperatorAritmatika.vbproj.CoreCompileInputs.cache
+D:\Kerja AKJ\AKJ\VB NET\2019\OperatorAritmatika\OperatorAritmatika\obj\Debug\OperatorAritmatika.exe
+D:\Kerja AKJ\AKJ\VB NET\2019\OperatorAritmatika\OperatorAritmatika\obj\Debug\OperatorAritmatika.xml
+D:\Kerja AKJ\AKJ\VB NET\2019\OperatorAritmatika\OperatorAritmatika\obj\Debug\OperatorAritmatika.pdb
+D:\Kerja AKJ\AKJ\VB NET\2019\OperatorAritmatika\OperatorAritmatika\obj\Debug\OperatorAritmatika.aritmatika.resources
+D:\Kerja AKJ\AKJ\VB NET\2019\OperatorAritmatika\OperatorAritmatika\obj\Debug\OperatorAritmatika.pembanding.resources
+D:\Kerja AKJ\AKJ\VB NET\2019\OperatorAritmatika\OperatorAritmatika\obj\Debug\OperatorAritmatika.logika.resources
